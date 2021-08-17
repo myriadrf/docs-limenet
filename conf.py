@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'LimeNET Manual'
+project = 'LimeNET'
 copyright = '2021, Lime Microsystems Ltd'
 author = 'Lime Microsystems Ltd'
 
@@ -76,8 +76,8 @@ html_theme_options = {
     'navigation_depth': 4
 }
 
-#html_logo = 'images/LimeADPD_logo_200w.png'
-#html_favicon = 'images/LimeADPD_favicon_34x34.png'
+html_logo = 'images/LimeNET_logo_200w.png'
+html_favicon = 'images/LimeNET_favicon_34x34.png'
 
 html_show_sphinx = False
 
