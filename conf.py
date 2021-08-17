@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'LimeNET'
+project = 'LimeNET Product Brief'
 copyright = '2021, Lime Microsystems Ltd'
 author = 'Lime Microsystems Ltd'
 
