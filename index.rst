@@ -5,6 +5,7 @@
    Overview <self>
    structure
    features
+   ecosystem
 
 Overview
 ========
